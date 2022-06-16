@@ -13,6 +13,9 @@
 [![CircleCI](https://circleci.com/gh/overture-stack/ego/tree/develop.svg?style=svg)](https://circleci.com/gh/overture-stack/ego/tree/develop)
 [![Slack](http://slack.overture.bio/badge.svg)](http://slack.overture.bio)
 
+
+
+
 ## Table of Contents
 - [Documentation](#documentation)
 - [Introduction](#introduction)
